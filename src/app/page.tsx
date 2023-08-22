@@ -6,8 +6,8 @@ export default function Home() {
 
           <div className="flex flex-col place-content-center col-start-6 col-span-2 h-1/4 bg-white text-black text-center">
 
-            <p className="text-6xl">DEV</p>
-            <p className="text-6xl">JPS</p>
+            <p className="text-6xl">D</p>
+            <p className="text-6xl">J</p>
 
           </div>
 

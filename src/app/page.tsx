@@ -8,11 +8,8 @@ export default function Home() {
 
             <p className="text-6xl">DEV</p>
             <p className="text-6xl">JPS</p>
-            <div>
-                <p className="text-xs/4">COMPUTER SYSTEMS ENGINEER</p>
-                <p className="text-xs/[10px]">FULL STACK DEVELOPMENT ENTERPRISE IT SOLUTIONS</p>
-            </div>
-            </div>
+
+          </div>
 
         </div>
 
